@@ -3,7 +3,7 @@
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>Python</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Weather Recognition ([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/elisalsr/Weather_recognition.git))
     
 - <b>R</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
