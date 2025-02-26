@@ -5,6 +5,7 @@
 - <b>Python</b>
   - [Weather Recognition](https://github.com/elisalsr/Weather_recognition)
   - [Book Recommendation](https://github.com/elisalsr/Book_recommendation/tree/main)
+  - [Sentiment analysis](https://github.com/elisalsr/Sentiment_analysis)
     
 - <b>R</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
