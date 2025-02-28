@@ -3,7 +3,7 @@
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>Python</b>
-  - [Weather Recognition](https://github.com/elisalsr/Weather_recognition)
+  
   - [Book Recommendation](https://github.com/elisalsr/Book_recommendation/tree/main)
   - [Sentiment analysis](https://github.com/elisalsr/Sentiment_analysis)
     
@@ -24,11 +24,7 @@
 
 <h2>📺 Deep learning projects</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Weather Recognition](https://github.com/elisalsr/Weather_recognition)
 
 
 <h2>📺 Big data projects</h2>
