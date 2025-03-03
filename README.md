@@ -26,6 +26,10 @@
 
 -  [Real Estate project](https://github.com/elisalsr/Real-Estate-Market-Data-Exploration-in-Toulouse-and-its-suburbs)
 
+
+<h2>📺 Data vizualisation projects </h2>
+
+- 
 <h2> 🤳 Connect with me:</h2>
 
 [twitter]: https://twitter.com/joshmadakor
