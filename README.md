@@ -5,7 +5,7 @@
 - <b>Python</b>
   
   - [Book Recommendation](https://github.com/elisalsr/Book_recommendation/tree/main)
-  - [Sentiment analysis](https://github.com/elisalsr/Sentiment_analysis)
+  - 
     
 - <b>R</b>
 
@@ -24,8 +24,9 @@
 
 <h2>📺 Big data projects</h2>
 
--  [Real Estate project](https://github.com/elisalsr/Real-Estate-Market-Data-Exploration-in-Toulouse-and-its-suburbs)
--  [Donald Trump Communication Analysis](https://github.com/elisalsr/Donald_Trump_Communication_Analysis)
+-  [Real Estate project (Python)](https://github.com/elisalsr/Real-Estate-Market-Data-Exploration-in-Toulouse-and-its-suburbs)
+-  [Donald Trump Communication Analysis (Python)](https://github.com/elisalsr/Donald_Trump_Communication_Analysis)
+-  [Sentiment analysis (Python)](https://github.com/elisalsr/Sentiment_analysis)
 
 
 <h2>📺 Data vizualisation projects </h2>
