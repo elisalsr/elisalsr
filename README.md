@@ -25,6 +25,7 @@
 <h2>📺 Big data projects</h2>
 
 -  [Real Estate project](https://github.com/elisalsr/Real-Estate-Market-Data-Exploration-in-Toulouse-and-its-suburbs)
+-  [Donald Trump Communication Analysis](https://github.com/elisalsr/Donald_Trump_Communication_Analysis)
 
 
 <h2>📺 Data vizualisation projects </h2>
