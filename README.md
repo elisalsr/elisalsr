@@ -26,7 +26,7 @@
 
 -  [Real Estate project (Python)](https://github.com/elisalsr/Real-Estate-Market-Data-Exploration-in-Toulouse-and-its-suburbs)
 -  [Donald Trump Communication Analysis (Python)](https://github.com/elisalsr/Donald_Trump_Communication_Analysis)
--  [Sentiment analysis (Python)](https://github.com/elisalsr/Sentiment_analysis)
+-  [Sentiment analysis about Elon Musk (Python)](https://github.com/elisalsr/Sentiment_analysis)
 
 
 <h2>📺 Data vizualisation projects </h2>
