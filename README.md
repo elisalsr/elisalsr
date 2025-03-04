@@ -9,6 +9,7 @@
     
 - <b>R</b>
 
+[Pima Indians Diabetes Analysis](https://github.com/elisalsr/Weather_recognition)
 
 - <b>SQL</b>
 
