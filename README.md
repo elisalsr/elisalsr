@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   
-  - [Book Recommendation](https://github.com/elisalsr/Book_recommendation/tree/main)
+  - 
   - 
     
 - <b>R</b>
@@ -20,6 +20,9 @@
 <h2>📺 Deep learning projects</h2>
 
 - [Weather Recognition](https://github.com/elisalsr/Weather_recognition)
+
+<h2>📺 Machine learning projects</h2>
+- [Book Recommendation](https://github.com/elisalsr/Book_recommendation/tree/main)
 
 
 <h2>📺 Big data projects</h2>
