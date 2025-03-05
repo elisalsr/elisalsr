@@ -1,22 +1,5 @@
 <h1>Hi, I'm Elisa! <br/><a href="www.linkedin.com/in/elisa-lassarre-938a35207">Data analyst</a>
   
-<h2>👨‍💻 Programming Projects:</h2>
-
-- <b>Python</b>
-  
-  - 
-  - 
-    
-- <b>R</b>
-
-[Pima Indians Diabetes Analysis](https://github.com/elisalsr/Weather_recognition)
-
-- <b>SQL</b>
-
-    
-- <b>Others</b>
-
-    
 
 <h2>📺 Deep learning projects</h2>
 
@@ -35,7 +18,25 @@
 
 <h2>📺 Data vizualisation projects </h2>
 
-- 
+
+
+<h2>👨‍💻 Programming Projects:</h2>
+
+- <b>Python</b>
+  
+    
+- <b>R</b>
+
+[Pima Indians Diabetes Analysis](https://github.com/elisalsr/Weather_recognition)
+[UnemploymentAnalysis](https://github.com/elisalsr/Unemployment-analysis)
+
+- <b>SQL</b>
+
+    
+- <b>Others</b>
+
+    
+
 <h2> 🤳 Connect with me:</h2>
 
 [twitter]: https://twitter.com/joshmadakor
