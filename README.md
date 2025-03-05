@@ -5,23 +5,23 @@
 
 - [Weather Recognition](https://github.com/elisalsr/Weather_recognition)
 
-<h2>📺 Machine learning projects</h2>
+<h2>⚙️ Machine learning projects</h2>
 
 - [Book Recommendation](https://github.com/elisalsr/Book_recommendation/tree/main)
 
 
-<h2>📺 Big data projects</h2>
+<h2>📊 Big data projects</h2>
 
 -  [Real Estate Market in Toulouse and its suburbs (Python)](https://github.com/elisalsr/Real-Estate-Market-Data-Exploration-in-Toulouse-and-its-suburbs)
 -  [Donald Trump Communication Analysis (Python)](https://github.com/elisalsr/Donald_Trump_Communication_Analysis)
 -  [Sentiment analysis about Elon Musk (Python)](https://github.com/elisalsr/Sentiment_analysis)
 
 
-<h2>📺 Data vizualisation projects </h2>
+<h2>🎨 Data vizualisation projects </h2>
 
 
 
-<h2>👨‍💻 Programming Projects:</h2>
+<h2>👩🏻‍💻 Programming Projects:</h2>
 
 <b>Python</b>
   
