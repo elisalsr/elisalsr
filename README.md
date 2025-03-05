@@ -44,4 +44,7 @@ I am a final-year Master's student in Artificial Intelligence and Business Analy
 <b>Others</b>  
 <br/>
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me:
+
+📧 **Email**: [elisa.lassarre@icloud.com](mailto:elisa.lassarre@icloud.com.com)  
+🔗 **LinkedIn**: [Elisa Lassarre](https://www.linkedin.com/in/elisa-lassarre-938a35207)
