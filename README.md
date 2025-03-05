@@ -19,7 +19,7 @@
 
 <h2>🎨 Data vizualisation projects </h2>
 
-
+- [Peaky Blinders Dashboard](https://github.com/elisalsr/Peaky-Blinders/blob/main/README.md)
 
 <h2>👩🏻‍💻 Programming Projects:</h2>
 
