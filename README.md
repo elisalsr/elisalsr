@@ -1,4 +1,8 @@
-<h1>Hi, I'm Elisa! <br/><a href="www.linkedin.com/in/elisa-lassarre-938a35207">Data analyst</a>
+# Hi, I'm Elisa!  
+[Data analyst](www.linkedin.com/in/elisa-lassarre-938a35207)  
+
+I am a final-year Master's student in Artificial Intelligence and Business Analytics, currently completing a work-study program as a Data Analyst at Pierre Fabre Group. With a strong background in data analysis, machine learning, and business insights, I am eager to apply my skills in an international setting and contribute to data-driven decision-making. I am actively seeking a VIE position starting in September 2025.
+
   
 
 <h2>📺 Deep learning projects</h2>
