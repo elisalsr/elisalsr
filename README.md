@@ -6,6 +6,7 @@
 - [Weather Recognition](https://github.com/elisalsr/Weather_recognition)
 
 <h2>📺 Machine learning projects</h2>
+
 - [Book Recommendation](https://github.com/elisalsr/Book_recommendation/tree/main)
 
 
@@ -22,13 +23,13 @@
 
 <h2>👨‍💻 Programming Projects:</h2>
 
-- <b>Python</b>
+<b>Python</b>
   
     
-- <b>R</b>
+<b>R</b>
 
-[Pima Indians Diabetes Analysis](https://github.com/elisalsr/Weather_recognition)
-[UnemploymentAnalysis](https://github.com/elisalsr/Unemployment-analysis)
+- [Pima Indians Diabetes Analysis](https://github.com/elisalsr/Weather_recognition)
+- [UnemploymentAnalysis](https://github.com/elisalsr/Unemployment-analysis)
 
 - <b>SQL</b>
 
