@@ -19,7 +19,6 @@ I am a final-year Master's student in Artificial Intelligence and Business Analy
 <h2>📊 Big data projects</h2>
 
 -  [Real Estate Market in Toulouse and its suburbs (Python)](https://github.com/elisalsr/Real-Estate-Market-Data-Exploration-in-Toulouse-and-its-suburbs)  
--  [Donald Trump Communication Analysis (Python)](https://github.com/elisalsr/Donald_Trump_Communication_Analysis)  
 -  [Sentiment analysis about Elon Musk (Python)](https://github.com/elisalsr/Sentiment_analysis)  
 <br/>
 
