@@ -33,7 +33,7 @@ I am a final-year Master's student in Artificial Intelligence and Business Analy
 <br/>
 
 <b>R</b>  
-- [Pima Indians Diabetes Analysis]([https://github.com/elisalsr/Weather_recognition](https://github.com/elisalsr/Pima_Indians_Diabetes_Analysis)
+- [Pima Indians Diabetes Analysis](https://github.com/elisalsr/Pima_Indians_Diabetes_Analysis)
 - [Unemployment Analysis](https://github.com/elisalsr/Unemployment-analysis)  
 <br/>
 
