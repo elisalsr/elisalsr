@@ -9,6 +9,8 @@ I am a data analyst consultant at The Information Lab in Paris, where I build da
 
 - [Advertising response curves and budget allocation (Python)](https://github.com/elisalsr/advertising-response-curves)  
   Marketing mix model on five media channels. A reallocation at constant budget would raise weekly revenue by 6.9%.
+- [GA4 e-commerce analysis (SQL, BigQuery, Looker Studio)](https://github.com/elisalsr/ga4-ecommerce-analysis)
+  Conversion funnel, channel and device analysis of the Google Merchandise Store. Only 20% of product viewers add to cart, and organic search drives the most revenue.
 <br/>
 
 <h2>📺 Deep learning projects</h2>
